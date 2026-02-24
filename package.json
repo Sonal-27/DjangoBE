@@ -1,11 +1,4 @@
 {
-  "name": "your-project",
-  "version": "1.0.0",
-  "dependencies": {
-    "axios": "0.21.1",
-    "socket.io": "2.3.0",
-    "jquery": "3.4.1",
-    "marked": "0.7.0",
-    "moment": "2.24.0"
+  
   }
 }
